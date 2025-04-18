@@ -2,7 +2,6 @@
 
 A Web Application which will enable the farmer to sell his produce to the customer without any constraints and exploitation of the middleman, thereby he will get the profit that he deserves for his hardwork. This System encompasses varied features to help the farmer to transact efficiently and effectively.
 
-
 The Agriculture Portal has three functional arms :– 
 
 The Farmer module that can use the services which have been provided by the government. Services such as Crop Predicition, NewsFeed, Trading crops, as well as weather prediction are provided. 
