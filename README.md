@@ -1,4 +1,5 @@
 # Agriculture Portal
+for Farmer, Customer & Government
 
 A Web Application which will enable the farmer to sell his produce to the customer without any constraints and exploitation of the middleman, thereby he will get the profit that he deserves for his hardwork. This System encompasses varied features to help the farmer to transact efficiently and effectively.
 
